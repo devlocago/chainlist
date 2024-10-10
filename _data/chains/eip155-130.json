@@ -1,0 +1,24 @@
+{
+  "name": "Anrytron",
+  "chain": "130",
+  "rpc": ["http://rpc.anryton.com"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "MOL",
+    "symbol": "mol",
+    "decimals": 18
+  },
+  "features": [],
+  "infoURL": "https://anrytron.com",
+  "shortName": "Anrytron",
+  "chainId": 130,
+  "networkId": 130,
+  "icon": "anrytron",
+  "explorers": [
+    {
+      "name": "Tracehawk",
+      "url": "https://explorer.anrytron.com",
+      "standard": "none"
+    }
+  ]
+}
